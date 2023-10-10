@@ -4,7 +4,7 @@ This is a simple web application built using several technologies to generate Lo
 
 ## Demo
 
-You can see a live demo of the application [here](https://www.figma.com/file/JRDDc3aN6uiBS3yvjbkk0s/Lorem-ipsum?node-id=0%3A1&t=cLtQmBowNmb4V0jP-1).
+You can see a live demo of the application [here](https://lorem-ipsum-mhej.onrender.com).
 
 ## Features
 
